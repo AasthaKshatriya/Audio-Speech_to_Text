@@ -20,20 +20,21 @@ Clone the repo:
 ```bash
 git clone https://https://github.com/Aastha291200/Audio-Speech_to_Text.git
 pip install -r requirements.txt
+```
 ## Usage
 To use the Automated Audio Speech to Text, follow these steps:
 
-Import the module in your Python script:
+## Import the module in your Python script:
 import speech_to_text_converter
-Use the function convert_audio_to_text() with the path to your audio file:
+###Use the function convert_audio_to_text() with the path to your audio file:
 text = speech_to_text_converter.convert_audio_to_text('path_to_your_audio_file.wav')
 print(text)
 
-Contributing
+##Contributing
 Contributions to the project are welcome! Please fork the project and submit a pull request with your features or fixes.
 
-License
+###License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Contact
+###Contact
 If you have any questions or feedback, please contact me at aasthasinghkshatriya@gmail.com.
