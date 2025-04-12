@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 Clone the repo:
 ```bash
-git clone https://https://github.com/AasthaKshatriya/Audio-Speech_to_Text.git
+git clone (https://github.com/AasthaKshatriya/Audio-Speech_to_Text).git
 pip install -r requirements.txt
 ```
 ## Usage
